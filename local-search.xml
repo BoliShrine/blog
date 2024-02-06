@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/blog/2024/02/06/hello-world/"/>
+    <url>/blog/2024/02/06/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>欢迎来到博丽神社!</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>GModCEFCodecFix萌新食用教程</title>
+    <link href="/blog/2024/02/05/GModCEFCodecFix%E8%90%8C%E6%96%B0%E9%A3%9F%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    <url>/blog/2024/02/05/GModCEFCodecFix%E8%90%8C%E6%96%B0%E9%A3%9F%E7%94%A8%E6%95%99%E7%A8%8B/</url>
+    
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p><strong>Media Player</strong>是服务器正在使用的一种视频播放插件，玩家可以复制视频链接来观看视频，但是在服务器中无法直接使用该插件来播放视频，且无法观看，<strong>GModCEFCodecFix</strong>就是用来解决视频无法播放问题的补丁。</p><h1 id="安装过程"><a href="#安装过程" class="headerlink" title="安装过程"></a>安装过程</h1><p>一. 下载群文件中的 GModCEFCodecFix 文件 或到我们的镜像站下载</p><p>二. 直接运行 GModCEFCodecFix.exe 文件</p><p>三. 运行文件后会出现以下弹窗</p><p><img src="/blog/./2024/02/05/GModCEFCodecFix%E8%90%8C%E6%96%B0%E9%A3%9F%E7%94%A8%E6%95%99%E7%A8%8B/1.png" alt="1"></p><p>该文件将自动检查你是否拥有所需的所有文件</p><p>如果文件缺失,将显示缺失文件名称并提供下载地址，复制地址下载安装即可。</p><p>四. 使用该文件运行gmod</p><p>相关文件下载完毕后会显示下列选项</p><p><img src="/blog/./2024/02/05/GModCEFCodecFix%E8%90%8C%E6%96%B0%E9%A3%9F%E7%94%A8%E6%95%99%E7%A8%8B/2.png" alt="2"></p><p>在下面的输入栏中输入数字2并按下回车（enter）即可打开gmod。</p><p>一般情况下运行完毕后就能在游戏中使用视频插件，并且在之后打开游戏时无需运行该文件。如仍无法运行，请尝试在使用文件运行游戏。</p><h1 id="部分问题解答"><a href="#部分问题解答" class="headerlink" title="部分问题解答"></a>部分问题解答</h1><ol><li><p>该文件不支持win7系统，建议升级系统（因为steam也不支持windows7了）。</p></li><li><p>运行游戏前请先关闭游戏并将游戏换成64位（教程在前言）。</p></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>GMOD教程</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>GMOD</tag>
+      
+      <tag>教程</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
